@@ -8,4 +8,20 @@
 <loc>https://petercoyne.github.io/test-post.html</loc>
 <lastmod>2020-12-01T14:53:23+00:00</lastmod>
 </url>
+<url>
+<loc>https://petercoyne.github.io/useful-tools-1-notion.html</loc>
+<lastmod>2020-12-01T16:12:31+00:00</lastmod>
+<image:image>
+<image:loc>https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.17.48.png</image:loc>
+<image:title><![CDATA[Notion, timeline view]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.40.08.png</image:loc>
+<image:title><![CDATA[Database Views]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-16.04.48-2.png</image:loc>
+<image:title><![CDATA[Board View]]></image:title>
+</image:image>
+</url>
 </urlset>
