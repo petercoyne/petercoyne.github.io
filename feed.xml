@@ -3,7 +3,7 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-01T16:12:31+00:00</updated>
+    <updated>2020-12-01T17:50:13+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
@@ -17,19 +17,17 @@
         <link href="https://petercoyne.github.io/useful-tools-1-notion.html"/>
         <id>https://petercoyne.github.io/useful-tools-1-notion.html</id>
 
-        <updated>2020-12-01T16:12:31+00:00</updated>
+        <updated>2020-12-01T17:50:13+00:00</updated>
             <summary>
                 <![CDATA[
-                    Notion is an "All-in-one workspace". It combines functions of a Wiki, a project/task manager, database and a note taking app. The personal pro plan is free for educational use, so I recently decided to evaluate it as a system for managing my college projects. Unlike&hellip;
+                        <img src="https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.17.48-2.png" alt="" />
+                    Notion is an "All-in-one workspace". It combines functions of a Wiki, a project/task manager, database and a note taking app. The personal pro&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.17.48-2.png" alt="" />
                 <p>Notion is an "All-in-one workspace". It combines functions of a Wiki, a project/task manager, database and a note taking app. The personal pro plan is free for educational use, so I recently decided to evaluate it as a system for managing my college projects.</p>
-<figure class="post__image post__image--full" ><img loading="lazy" src="https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.17.48.png" alt="Notion, timeline view" width="1461" height="842">
-<figcaption >Notion, Timeline view</figcaption>
-</figure>
-<p> </p>
 <p>Unlike many other pieces of project management software, a Notion workspace can be tailored to suit the needs of each project. The software provides a few fundamental building components: <strong>Pages,</strong> <strong>Blocks </strong>and<strong> Views.</strong></p>
 <h2>Pages</h2>
 <p>Pages in Notion are the primary means of structuring your system. Pages can be created as top-level items, or can be nested inside one another. Pages can contain a title, icon and cover image.</p>
