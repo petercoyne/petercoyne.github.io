@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>splice.ie</title>
+    <link href="https://petercoyne.github.io/feed.xml" rel="self" />
+    <link href="https://petercoyne.github.io" />
+    <updated>2020-12-01T14:53:23+00:00</updated>
+    <author>
+        <name>Peter Coyne</name>
+    </author>
+    <id>https://petercoyne.github.io</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Peter Coyne</name>
+        </author>
+        <link href="https://petercoyne.github.io/test-post.html"/>
+        <id>https://petercoyne.github.io/test-post.html</id>
+
+        <updated>2020-12-01T14:53:23+00:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test post written in Publii.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post written in Publii.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

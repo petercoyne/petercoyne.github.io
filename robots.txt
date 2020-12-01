@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://petercoyne.github.io/sitemap.xml
