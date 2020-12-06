@@ -3,7 +3,7 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-06T17:26:36+00:00</updated>
+    <updated>2020-12-06T17:56:07+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
@@ -17,20 +17,17 @@
         <link href="https://petercoyne.github.io/useful-tools-2-sketch.html"/>
         <id>https://petercoyne.github.io/useful-tools-2-sketch.html</id>
 
-        <updated>2020-12-06T17:26:36+00:00</updated>
+        <updated>2020-12-06T17:32:19+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
                      Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts. On first launching the app, you are greeted&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29.png" height="1235" width="1914" alt="" />
-      
-    </figure>
-
   <p>
     Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts.
   </p>
@@ -88,20 +85,17 @@
         <link href="https://petercoyne.github.io/useful-tools-3-iterm.html"/>
         <id>https://petercoyne.github.io/useful-tools-3-iterm.html</id>
 
-        <updated>2020-12-06T16:48:53+00:00</updated>
+        <updated>2020-12-06T17:56:07+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://petercoyne.github.io/media/posts/4/Screenshot-2020-12-06-at-16.15.25-2.png" alt="" />
                      iTerm is another macOS exclusive app. It is a replacement for the stock Terminal.app, and comes with a slew of advanced features. I'll briefly cover some of the features that matter to me. The default Terminal in macOS is a very competent terminal emulator,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://petercoyne.github.io/media/posts/4/Screenshot-2020-12-06-at-16.15.25-2.png" alt="" />
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://petercoyne.github.io/media/posts/4/Screenshot-2020-12-06-at-16.15.25.png" height="629" width="857" alt="" />
-      
-    </figure>
-
   <p>
     iTerm is another macOS exclusive app. It is a replacement for the stock Terminal.app, and comes with a slew of advanced features. I'll briefly cover some of the features that matter to me.
   </p>
