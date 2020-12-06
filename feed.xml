@@ -3,80 +3,12 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-06T18:13:36+00:00</updated>
+    <updated>2020-12-06T18:14:41+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
     <id>https://petercoyne.github.io</id>
 
-    <entry>
-        <title>Useful Tools 2: Sketch</title>
-        <author>
-            <name>Peter Coyne</name>
-        </author>
-        <link href="https://petercoyne.github.io/useful-tools-2-sketch.html"/>
-        <id>https://petercoyne.github.io/useful-tools-2-sketch.html</id>
-
-        <updated>2020-12-06T17:32:19+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
-                     Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts. On first launching the app, you are greeted&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
-                
-  <p>
-    Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts.
-  </p>
-
-  <p>
-    On first launching the app, you are greeted with a concise UI. Layers &amp; pages on the left, selected item details on the right, and commonly used functionality along the top. The centre of the workspace displays an unlimited vector canvas, navigable using standard shortcut keys you might be used to from&nbsp;
-  </p>
-
-  <p>
-    There are very few basic components which can be added to the canvas:
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-16.51.53.png" height="419" width="376" alt="" />
-      
-    </figure>
-
-  <p>
-    The most commonly used items each have an accompanying shortcut key. For example to create an artboard (a region for containing design sections), you hit <code>a</code> on your keyboard and drag out the artboard onto the canvas. If you want to add a rectangle to the new artboard hit <code>r</code> and drag out the rectangle. This is a very speedy way of adding required elements into your design.
-  </p>
-
-  <p>
-    Once you have an object created, you can use the right hand pane to apply properties until the element looks appropriate.<br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-16.56.18.png" height="927" width="259" alt="" />
-      
-    </figure>
-
-  <p>
-    Again, the functionality of the inspect panel is pared down to a minimal set of properties. Combining these however, seems to enable the creation of an extremely wide variety of illustrations and styles. For example, in the image below I created a shiny marble image for a Mobile Apps module assignment.
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-17.15.07.png" height="552" width="1482" alt="" />
-      
-    </figure>
-
-  <p>
-    The resulting image (immediately to the left of the styles panel), is created using 3 simple shapes.&nbsp;You can see the selected circle on the left, and its associated styles in the right hand panel. This is the base of the image, and has a gradient fill, one outer shadow and two inner shadows. The black square contains the second and third shape. On top is a modified oval with a gradient fill to semitransparent, this is meant to indicate the shininess of the object. The third shape is a blurred oval to replicate light refraction through the marble.
-  </p>
-
-  <p>
-    As shown, a small set of vector objects can be combined to make a richer looking object. These layers can then be grouped together into components, which can be updated document wide. This way of organising items allows for rapid creation of complex documents, while enabling maintainability through a minimalist organisational principle.
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Useful Tools 3: iTerm</title>
         <author>
@@ -141,6 +73,74 @@
 
   <p>
     All of this combines to enable a kind of remote virtual desktop for CLI applications, all accessible in a user friendly way. This is invaluable if you need to do a lot of work on a remote system.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Useful Tools 2: Sketch</title>
+        <author>
+            <name>Peter Coyne</name>
+        </author>
+        <link href="https://petercoyne.github.io/useful-tools-2-sketch.html"/>
+        <id>https://petercoyne.github.io/useful-tools-2-sketch.html</id>
+
+        <updated>2020-12-06T18:14:41+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
+                     Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts. On first launching the app, you are greeted&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
+                
+  <p>
+    Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts.
+  </p>
+
+  <p>
+    On first launching the app, you are greeted with a concise UI. Layers &amp; pages on the left, selected item details on the right, and commonly used functionality along the top. The centre of the workspace displays an unlimited vector canvas, navigable using standard shortcut keys you might be used to from&nbsp;
+  </p>
+
+  <p>
+    There are very few basic components which can be added to the canvas:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-16.51.53.png" height="419" width="376" alt="" />
+      
+    </figure>
+
+  <p>
+    The most commonly used items each have an accompanying shortcut key. For example to create an artboard (a region for containing design sections), you hit <code>a</code> on your keyboard and drag out the artboard onto the canvas. If you want to add a rectangle to the new artboard hit <code>r</code> and drag out the rectangle. This is a very speedy way of adding required elements into your design.
+  </p>
+
+  <p>
+    Once you have an object created, you can use the right hand pane to apply properties until the element looks appropriate.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-16.56.18.png" height="927" width="259" alt="" />
+      
+    </figure>
+
+  <p>
+    Again, the functionality of the inspect panel is pared down to a minimal set of properties. Combining these however, seems to enable the creation of an extremely wide variety of illustrations and styles. For example, in the image below I created a shiny marble image for a Mobile Apps module assignment.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-17.15.07.png" height="552" width="1482" alt="" />
+      
+    </figure>
+
+  <p>
+    The resulting image (immediately to the left of the styles panel), is created using 3 simple shapes.&nbsp;You can see the selected circle on the left, and its associated styles in the right hand panel. This is the base of the image, and has a gradient fill, one outer shadow and two inner shadows. The black square contains the second and third shape. On top is a modified oval with a gradient fill to semitransparent, this is meant to indicate the shininess of the object. The third shape is a blurred oval to replicate light refraction through the marble.
+  </p>
+
+  <p>
+    As shown, a small set of vector objects can be combined to make a richer looking object. These layers can then be grouped together into components, which can be updated document wide. This way of organising items allows for rapid creation of complex documents, while enabling maintainability through a minimalist organisational principle.
   </p>
             ]]>
         </content>
