@@ -3,25 +3,162 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-01T17:50:13+00:00</updated>
+    <updated>2020-12-06T17:26:36+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
     <id>https://petercoyne.github.io</id>
 
     <entry>
-        <title>Useful Tools 1 - Notion</title>
+        <title>Useful Tools 2: Sketch</title>
+        <author>
+            <name>Peter Coyne</name>
+        </author>
+        <link href="https://petercoyne.github.io/useful-tools-2-sketch.html"/>
+        <id>https://petercoyne.github.io/useful-tools-2-sketch.html</id>
+
+        <updated>2020-12-06T17:26:36+00:00</updated>
+            <summary>
+                <![CDATA[
+                     Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts. On first launching the app, you are greeted&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29.png" height="1235" width="1914" alt="" />
+      
+    </figure>
+
+  <p>
+    Sketch is an excellent piece of design software. Intended for designing digital products (websites, user interfaces, icons etc), it is available on macOS exclusively. I use it extensively for web projects, and increasingly for app layouts.
+  </p>
+
+  <p>
+    On first launching the app, you are greeted with a concise UI. Layers &amp; pages on the left, selected item details on the right, and commonly used functionality along the top. The centre of the workspace displays an unlimited vector canvas, navigable using standard shortcut keys you might be used to from&nbsp;
+  </p>
+
+  <p>
+    There are very few basic components which can be added to the canvas:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-16.51.53.png" height="419" width="376" alt="" />
+      
+    </figure>
+
+  <p>
+    The most commonly used items each have an accompanying shortcut key. For example to create an artboard (a region for containing design sections), you hit <code>a</code> on your keyboard and drag out the artboard onto the canvas. If you want to add a rectangle to the new artboard hit <code>r</code> and drag out the rectangle. This is a very speedy way of adding required elements into your design.
+  </p>
+
+  <p>
+    Once you have an object created, you can use the right hand pane to apply properties until the element looks appropriate.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-16.56.18.png" height="927" width="259" alt="" />
+      
+    </figure>
+
+  <p>
+    Again, the functionality of the inspect panel is pared down to a minimal set of properties. Combining these however, seems to enable the creation of an extremely wide variety of illustrations and styles. For example, in the image below I created a shiny marble image for a Mobile Apps module assignment.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-17.15.07.png" height="552" width="1482" alt="" />
+      
+    </figure>
+
+  <p>
+    The resulting image (immediately to the left of the styles panel), is created using 3 simple shapes.&nbsp;You can see the selected circle on the left, and its associated styles in the right hand panel. This is the base of the image, and has a gradient fill, one outer shadow and two inner shadows. The black square contains the second and third shape. On top is a modified oval with a gradient fill to semitransparent, this is meant to indicate the shininess of the object. The third shape is a blurred oval to replicate light refraction through the marble.
+  </p>
+
+  <p>
+    As shown, a small set of vector objects can be combined to make a richer looking object. These layers can then be grouped together into components, which can be updated document wide. This way of organising items allows for rapid creation of complex documents, while enabling maintainability through a minimalist organisational principle.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Useful Tools 3: iTerm</title>
+        <author>
+            <name>Peter Coyne</name>
+        </author>
+        <link href="https://petercoyne.github.io/useful-tools-3-iterm.html"/>
+        <id>https://petercoyne.github.io/useful-tools-3-iterm.html</id>
+
+        <updated>2020-12-06T16:48:53+00:00</updated>
+            <summary>
+                <![CDATA[
+                     iTerm is another macOS exclusive app. It is a replacement for the stock Terminal.app, and comes with a slew of advanced features. I'll briefly cover some of the features that matter to me. The default Terminal in macOS is a very competent terminal emulator,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/4/Screenshot-2020-12-06-at-16.15.25.png" height="629" width="857" alt="" />
+      
+    </figure>
+
+  <p>
+    iTerm is another macOS exclusive app. It is a replacement for the stock Terminal.app, and comes with a slew of advanced features. I'll briefly cover some of the features that matter to me.
+  </p>
+
+    <h2 id="24bit-colour-support">
+      24-bit colour support
+    </h2>
+
+  <p>
+    The default Terminal in macOS is a very competent terminal emulator, however it's implementation of 256-colour xterm emulation is somewhat lacking. What this means in practice is that apps which make use of the extended colour palette can look terrible. Below is an example using bpytop, a system monitor&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/4/Screenshot-2020-12-06-at-16.29.53.png" height="650" width="1129" alt="" />
+      
+    </figure>
+
+  <p>
+    As you can see, this hideous monstrosity is barely functional when used with the built-in terminal. Contrast this with how it was designed to look (courtesy of iTerm2):
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/4/Screenshot-2020-12-06-at-16.26.24.png" height="838" width="1370" alt="" />
+      
+    </figure>
+
+    <h2 id="integrated-rich-tmux-integration">
+      Integrated rich tmux integration
+    </h2>
+
+  <p>
+    Tmux is a terminal multiplexer. This is a type of software that allows you to run multiple persistent terminal sessions in one window. It is particularly useful when working on remote servers, as lets you use multiple windows without making a whole bunch of ssh connections.
+  </p>
+
+  <p>
+    When using tmux in traditional terminal emulators, the interface is accessed through shortcut keys and inspected using a text-based surround on the terminal layer. Where iTerm 2 differs from other terminals is that it can natively interact with tmux. This means instead of pressing <code>ctrl-b , 1</code> to switch to the first tab in a tmux session, you can see the tabs natively in iTerm and simply click which one you want to navigate to. Another advantage of integrated tmux support is that it hooks into the terminal's native scrollback, allowing the user to scroll through the previous output of the current window using the mouse wheel instead of using obscure commands. Finally, iTerm integrates with tmux's split panes functionality, again providing a native interface for the feature.
+  </p>
+
+  <p>
+    All of this combines to enable a kind of remote virtual desktop for CLI applications, all accessible in a user friendly way. This is invaluable if you need to do a lot of work on a remote system.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Useful Tools 1: Notion</title>
         <author>
             <name>Peter Coyne</name>
         </author>
         <link href="https://petercoyne.github.io/useful-tools-1-notion.html"/>
         <id>https://petercoyne.github.io/useful-tools-1-notion.html</id>
 
-        <updated>2020-12-01T17:50:13+00:00</updated>
+        <updated>2020-12-01T17:51:40+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.17.48-2.png" alt="" />
-                    Notion is an "All-in-one workspace". It combines functions of a Wiki, a project/task manager, database and a note taking app. The personal pro&hellip;
+                    Notion is an "All-in-one workspace". It combines functions of a Wiki, a project/task manager, database and a note taking app. The personal pro plan is free for educational use, so I recently decided to evaluate it as a system for managing my college projects. Unlike&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -48,26 +185,6 @@
 <p>While I'm still new to Notion, it feels like a very promising tool. I've barely touched on the features in this post, features like collaboration and the many different ways of structuring your content. Admittedly there is an initial learning curve to the system, but it has been a rewarding experience so far.</p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test Post</title>
-        <author>
-            <name>Peter Coyne</name>
-        </author>
-        <link href="https://petercoyne.github.io/test-post.html"/>
-        <id>https://petercoyne.github.io/test-post.html</id>
-
-        <updated>2020-12-01T14:53:23+00:00</updated>
-            <summary>
-                <![CDATA[
-                    This is a test post written in Publii.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is a test post written in Publii.</p>
             ]]>
         </content>
     </entry>
