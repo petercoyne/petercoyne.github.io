@@ -3,12 +3,79 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-11T15:16:01+00:00</updated>
+    <updated>2020-12-11T17:06:44+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
     <id>https://petercoyne.github.io</id>
 
+    <entry>
+        <title>Useful Tools 5: Publii</title>
+        <author>
+            <name>Peter Coyne</name>
+        </author>
+        <link href="https://petercoyne.github.io/useful-tools-4-publii.html"/>
+        <id>https://petercoyne.github.io/useful-tools-4-publii.html</id>
+
+        <updated>2020-12-11T17:06:44+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://petercoyne.github.io/media/posts/5/Screenshot-2020-12-06-at-18.22.50.png" alt="" />
+                     Publii is a static blog generator with a GUI. It allows me to publish this blog on hosting that doesn't support dynamic content, github.io in this case. Publishing on Github is free and also means you gain the benefits of version control. The app&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://petercoyne.github.io/media/posts/5/Screenshot-2020-12-06-at-18.22.50.png" alt="" />
+                
+  <p>
+    Publii is a static blog generator with a GUI. It allows me to publish this blog on hosting that doesn't support dynamic content, github.io in this case. Publishing on Github is free and also means you gain the benefits of version control.
+  </p>
+
+  <p>
+    The app itself is rather straightforward to use. The main sidebar has a list of all the functions you might need for managing your blog.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/5/Screenshot-2020-12-06-at-18.33.08.png" height="738" width="319" alt="" />
+      
+    </figure>
+
+  <p>
+    The sidebar functions in essentially the same way as Wordpress or similar software, with support for Posts, Tags and multiple authors. The Theme, Site settings and Server links provide extensive customisation options for your blog. The two buttons on the bottom allow a quick preview to be generated, and to synchronise the site using git.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/5/publii1.png" height="895" width="1312" alt="" />
+      
+    </figure>
+
+  <p>
+    Above is a screenshot of the post editing window. It looks quite minimal but in reality there are many hidden widgets which only make themselves visible on mouseover. Similar to Notion, which briefly reviewed&nbsp;<a href="https://petercoyne.github.io/useful-tools-1-notion.html">here</a>, the basic component of a blog post in Publii is a block. A block can be a header, paragraph, image etc. The interface for interacting with these blocks is much less refined in Publii than it is in Notion, leading me to hope that Notion will add blog-like functionality in the future.
+  </p>
+
+  <p>
+    These niggles aside, I find the post editing interface to be relatively distraction-free. It generally gets out of the way and lets authors really focus on the content they are generating.
+  </p>
+
+  <p>
+    Overall, the interface is serviceable but nowhere near the level of elegance of the previous tools I have evaluated for this series of posts. It is very obviously a cross platform app based on web technology. While using web technologies for native applications is not inherently a bad thing, they require significant investment of time to produce functionality that might otherwise be provided natively by each operating system. Examples of well executed web-based native apps can be found in apps like Discord and Visual Studio Code.
+  </p>
+
+  <p>
+    In terms of the output of the final blog, I found the built in theme to be sufficient for my needs. I did try installing one of the many free available themes from the Publii marketplace, which worked well but I ultimately settled on the theme you see here.
+  </p>
+
+  <p>
+    There are a variety of static blog generators available, however most of them require use of the command line and thus require a mental model of the application's structure. Publii, as a GUI tool, removes the need for this. All of its options are laid out in a straightforward manner. If the interface was more refined I would find this tool enjoyable to use, however it lacks the elegance of more mature web-based applications -- let alone native macOS competition like <a href="https://ulysses.app" target="_blank">Ulysses</a>.
+  </p>
+
+  <p>
+    In conclusion, Publii <em>is</em> a useful tool, despite its shortcomings, but if I continue to blog in the future I will be searching for an alternative.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Useful Tools 4: Bitwig</title>
         <author>
