@@ -3,7 +3,7 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-13T14:22:56+00:00</updated>
+    <updated>2020-12-13T15:25:18+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://petercoyne.github.io/software-reviewithdiscussion.html"/>
         <id>https://petercoyne.github.io/software-reviewithdiscussion.html</id>
 
-        <updated>2020-12-13T14:22:56+00:00</updated>
+        <updated>2020-12-13T15:14:10+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://petercoyne.github.io/media/posts/7/teams1.png" alt="" />
@@ -108,10 +108,6 @@
       
     </figure>
 
-  <p>
-    
-  </p>
-
     <h2 id="pros">
       Pros
     </h2>
@@ -134,6 +130,10 @@
 
   <p>
     While the layout of individual module pages varies, I find the overall user experience of the system to be less than ideal. There is a lack of consistency amongst the UI elements. Menus, buttons and links are confusingly placed with uneven spacing throughout. I feel this is natural given the age and complexity of the system. Add to this the fact that open source software doesn't have the greatest reputation for well designed user interfaces, and we're left with another piece of software which is functional but inelegant on the front end.
+  </p>
+
+  <p>
+    I would love to see a modern LMS developed that features the power and flexibility of Moodle, combined with a consistent and modern UI akin to something like <a href="https://petercoyne.github.io/useful-tools-1-notion.html">Notion</a>. I feel that learners deserve tools that get out of their way and allow them to absorb the subject matter in an easily digestible manner, and I am hopeful that such tools will make their way into the mainstream going forward.
   </p>
 
   <p>
@@ -375,7 +375,7 @@
         <link href="https://petercoyne.github.io/useful-tools-2-sketch.html"/>
         <id>https://petercoyne.github.io/useful-tools-2-sketch.html</id>
 
-        <updated>2020-12-06T18:14:41+00:00</updated>
+        <updated>2020-12-13T15:25:11+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://petercoyne.github.io/media/posts/3/Screenshot-2020-12-06-at-15.49.29-2.png" alt="" />
@@ -443,7 +443,7 @@
         <link href="https://petercoyne.github.io/useful-tools-1-notion.html"/>
         <id>https://petercoyne.github.io/useful-tools-1-notion.html</id>
 
-        <updated>2020-12-01T17:51:40+00:00</updated>
+        <updated>2020-12-13T15:25:18+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://petercoyne.github.io/media/posts/2/Screenshot-2020-12-01-at-15.17.48-2.png" alt="" />
@@ -459,7 +459,7 @@
 <p>Pages in Notion are the primary means of structuring your system. Pages can be created as top-level items, or can be nested inside one another. Pages can contain a title, icon and cover image.</p>
 <p>The New Page screen contains several notable options. The user can either start from scratch by adding content, or choose a template from a large selection available within the app. Advanced users may choose to create their own templates for sharing with others.</p>
 <p>Below the templates there are options for making a <strong>Database</strong> type page. These are akin to a simplified version of Microsoft Excel sheets. </p>
-<p>Database columns can contain a number of field types including text, select, multi-select, person, date, files/media. There are also some advanced column types including formulae and relations. Relations allows you to map data from one database into another, as seen in the Task/Module relation in the first screenshot above. This allows me to view e.g. all tasks assigned to a particular model.</p>
+<p>Database columns can contain a number of field types including text, select, multi-select, person, date, files/media. There are also some advanced column types including formulae and relations. Relations allows you to map data from one database into another, as seen in the Task/Module relation in the first screenshot above. This allows me to view e.g. all tasks assigned to a particular module.</p>
 <h2>Blocks</h2>
 <p>All types of pages act as a container for Blocks, which are where you put the actual content you need. There are currently dozens of block types available, with more being added all the time. Block types can be selected by text command, for example /h2 will insert a Heading 2 block, /map will embed a google map. /mention allows you to mention another user if using it in collaboration with others. These are shortcuts for advanced users, as there is a GUI available to help you choose what kind of block you need.</p>
 <p>Overall I've found the block system to suit my personal workflow. It's very customisable, and offers features beyond the capabilities of markdown-based note taking applications.</p>
@@ -472,8 +472,8 @@
 </figure>
 <h2>Conclusion</h2>
 <p>While I'm still new to Notion, it feels like a very promising tool. I've barely touched on the features in this post, features like collaboration and the many different ways of structuring your content. Admittedly there is an initial learning curve to the system, but it has been a rewarding experience so far.</p>
-<p> </p>
-<p> </p>
+<h3>Update (13/12/2020)</h3>
+<p>I have continued to use Notion following this evaluation, and find myself enamoured by its flexibility, consistency and usability. I plan to migrate most of my note taking, calendar and project management tasks to the system. Collaboration is baked into Notion at a low level, so I am looking forward to experimenting with those features on projects in the future.</p>
             ]]>
         </content>
     </entry>
