@@ -3,12 +3,145 @@
     <title>petercoyne.github.io</title>
     <link href="https://petercoyne.github.io/feed.xml" rel="self" />
     <link href="https://petercoyne.github.io" />
-    <updated>2020-12-11T17:09:05+00:00</updated>
+    <updated>2020-12-13T14:22:56+00:00</updated>
     <author>
         <name>Peter Coyne</name>
     </author>
     <id>https://petercoyne.github.io</id>
 
+    <entry>
+        <title>Software Review/Discussion: Teams &amp; Moodle</title>
+        <author>
+            <name>Peter Coyne</name>
+        </author>
+        <link href="https://petercoyne.github.io/software-reviewithdiscussion.html"/>
+        <id>https://petercoyne.github.io/software-reviewithdiscussion.html</id>
+
+        <updated>2020-12-13T14:22:56+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://petercoyne.github.io/media/posts/7/teams1.png" alt="" />
+                     1. Microsoft Teams Microsoft teams is a business/education communication platform. It's the software we use at GMIT to access lectures and labs. We also had an opportunity this semester to use it for a group project in the IT Professional Skills module. Initially developed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://petercoyne.github.io/media/posts/7/teams1.png" alt="" />
+                
+    <h1 id="1-microsoft-teams">
+      1. Microsoft Teams
+    </h1>
+
+  <p>
+    Microsoft teams is a business/education communication platform. It's the software we use at GMIT to access lectures and labs. We also had an opportunity this semester to use it for a group project in the IT Professional Skills module. Initially developed as a competitor to <a href="https://slack.com" target="_blank">Slack</a>, the software aims to provide a comprehensive solution for communication in a business or education setting.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/7/teams2.png" height="1005" width="1674" alt="" />
+      
+    </figure>
+
+  <p>
+    The main Teams window (pictured above running on macOS) features a large search box in the main title bar. The user's avatar is displayed in the top right. When clicked, this brings up a menu related to the user's account. The main navigation is implemented using tabs on the left hand side of the window. The central pane changes depending on which tab is selected.
+  </p>
+
+  <p>
+    In this first screenshot we see the "Activity" pane. This pane features a list view on the left containing the most recently active conversations in which the user is participating. Clicking on an individual item takes you to the team page for that particular conversation.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/7/team-tabs.png" height="57" width="1132" alt="" />
+      
+    </figure>
+
+  <p>
+    Digging in a bit more to the conversation view, we find another tab bar at the top of every team page, with a list of tabs relevant to that particular team. This tab bar can be customised by team admins, to provide useful apps and links. In our group project I had the opportunity to experiment with this functionality by creating tabs for a mind map (Mindmeister), our presentation (Prezi) and our shared report document. It was useful, however as Teams uses its own built-in web browser, it did not use the cookies from my main browser, requiring me to log in to each service twice.
+  </p>
+
+  <p>
+    Other features of this bar include a Meet button, which allows scheduling of meetings, and the three dots menu, which allows managing of the channel, notification settings etc.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/7/teams-calendar.png" height="1005" width="1674" alt="" />
+      
+    </figure>
+
+  <p>
+    The final item I will mention is the calendar view. This view became our de facto timetable for the semester, as it provided more up-to-date information than the official timetable website. Presumably the official timetable website is less flexible from a lecturers perspective than the Teams one. While there was some confusion early in the semester, it became almost second nature to use by the end.
+  </p>
+
+    <h2 id="pros">
+      Pros
+    </h2>
+
+  <ul>
+    <li>When combined with Moodle, Teams provides all the functionality we needed for studying online.</li><li>The application was stable.</li><li>Allows for student to student communication as well as staff &lt;-&gt; student.</li><li>Timetable was a single source of truth for the semester.</li><li>Meeting feature was suitable for both lectures and labs.</li><li>Integrates with other Microsoft apps. It seems to be the right choice for a Microsoft-based IT infrastructure.</li>
+  </ul>
+
+    <h2 id="cons">
+      Cons
+    </h2>
+
+  <ul>
+    <li>Took some time to learn the ins and outs, interface is not so intuitive.</li><li>Some flakiness in the initial setup, like getting notifications from groups that I was not in, or not being assigned to groups I was supposed to be in.</li><li>Most lecturers had issues relating to bandwidth, sharing screens, visualiser use, audio issues, Teams interacting poorly with other applications etc.</li><li>The macOS version of the application does not integrate well with the operating system, causing visual artefacts.</li>
+  </ul>
+
+    <h2 id="conclusion">
+      Conclusion
+    </h2>
+
+  <p>
+    Teams is adequate. The user interface is functional but not particularly elegant. I would like to try Slack in an academic setting to be able to compare, but that seems unlikely to happen soon given the high level of Microsoft integration at GMIT.&nbsp;
+  </p>
+
+    <h1 id="2-moodle">
+      2. Moodle
+    </h1>
+
+  <p>
+    Moodle is the Learning Management System in use at GMIT under the name "Learn Online". It is an open source piece of web software which provides a wide array of functionality to lecturers and students. As a modular system, it allows staff to create and manage learning information for students on individual course pages. The structure of the information varies between lecturers, with some spending more more time on organisation than others.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://petercoyne.github.io/media/posts/7/moodle1a.png" height="1118" width="1576" alt="" />
+      
+    </figure>
+
+  <p>
+    
+  </p>
+
+    <h2 id="pros">
+      Pros
+    </h2>
+
+  <ul>
+    <li>Free and open source</li><li>Immense functionality available</li><li>Easily navigable once familiarity sets in</li>
+  </ul>
+
+    <h2 id="cons">
+      Cons
+    </h2>
+
+  <ul>
+    <li>Inelegant user experience</li><li>Features implemented to different degrees depending on lecturer</li><li>Administrative complexity</li><li>No integration with Teams</li>
+  </ul>
+
+    <h2 id="conclusion">
+      Conclusion
+    </h2>
+
+  <p>
+    While the layout of individual module pages varies, I find the overall user experience of the system to be less than ideal. There is a lack of consistency amongst the UI elements. Menus, buttons and links are confusingly placed with uneven spacing throughout. I feel this is natural given the age and complexity of the system. Add to this the fact that open source software doesn't have the greatest reputation for well designed user interfaces, and we're left with another piece of software which is functional but inelegant on the front end.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Useful Tools 5: Publii</title>
         <author>
